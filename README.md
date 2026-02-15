@@ -40,30 +40,6 @@ snake-water-gun/
 └── README.md
 ```
 
----
-
-## ▶️ How to Run
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/your-username/snake-water-gun.git
-```
-
-### 2️⃣ Navigate to the project folder
-
-```bash
-cd snake-water-gun
-```
-
-### 3️⃣ Run the program
-
-```bash
-python game.py
-```
-
----
-
 ## 🖥️ Example Output
 
 ```
@@ -117,19 +93,9 @@ else:
 
 ---
 
-## 🔮 Future Improvements
-
-- Add score tracking
-- Add multiple rounds
-- Add replay option
-- Convert into GUI version (Tkinter)
-- Deploy as a web game
-
----
-
 ## 👨‍💻 Author
 
-Your Name  
+Siva Sankar
 
 ---
 
